@@ -1,5 +1,5 @@
-function hello() {
-  return "Hello!";
+function compact(arr) {
+  return null
 }
 
-module.exports = hello;
+module.exports = compact;
